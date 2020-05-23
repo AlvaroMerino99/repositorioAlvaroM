@@ -1,0 +1,6 @@
+Bievenido al juego de la mosca
+Espero que te guste
+
+Solamente debes de seguir las instrucciones que se muestran por pantalla mientras se ejecuta el juego
+
+adios...
